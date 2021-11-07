@@ -3,7 +3,9 @@
 //  Quizzler
 //
 //  Created by fernando babonoyaba on 11/1/21.
-//
+//  i did all the work for this application from zero
+//  However this convept application came from a course in udemy
+//  ios developer by Angela Yu from app brewery
 
 import UIKit
 
