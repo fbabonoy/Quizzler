@@ -1,8 +1,8 @@
 # Quizzler
 
-//  i did all the work for this application from zero
-//  However this convept application came from a course in udemy
-//  ios developer by Angela Yu from app brewery
+ i did all the work for this application from zero
+ However this convept application came from a course in udemy
+ ios developer by Angela Yu from app brewery
 
 
 # this to add in the future
